@@ -4,3 +4,6 @@ This web page contains information about the GRITS Toolbox source code, how to a
 * [Java and Eclipse setup](https://github.com/GritsToolbox/org.grits.toolbox/wiki/Java-and-Eclipse-setup)
 * [Source code development](https://github.com/GritsToolbox/org.grits.toolbox/wiki/Source-code-development)
 * [Build a new version](https://github.com/GritsToolbox/org.grits.toolbox/wiki/Building-GRITS-Toolbox)
+
+## Release notes
+* [1.3.0](https://github.com/GritsToolbox/org.grits.toolbox/wiki/Release-notes-1.3.0)
